@@ -1,2 +1,0 @@
-# jjsystem
-balsahara-phase2
